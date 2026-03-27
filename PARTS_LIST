@@ -1,0 +1,17 @@
+# Parts List
+
+## Electronics
+| Component        | Model / Spec         | Qty | Where to Buy         |
+|------------------|----------------------|-----|----------------------|
+| Microcontroller  | ESP32-S3 devkitc     | 1   | AliExpress / Amazon  |
+| Motor Driver     | MX1508               | 2   | AliExpress           |
+| Servo Motor      | SG90                 | 1   | AliExpress / Amazon  |
+| Stepper Motors   | CD/DVD drive motors  | 2   | Recycled             |
+| Power Supply     | 5V 2A USB            | 1   | Any                  |
+
+## Mechanical
+| Component        | Details              | Qty | Where to Buy         |
+|------------------|----------------------|-----|----------------------|
+| CD/DVD Drives    | Any laptop drive     | 2   | Recycled / eBay      |
+| Pen holder       | 3D printed / tape    | 1   | DIY                  |
+| Acrylic sheet    | 30cm * 30 cm         | 1   | Amazon               |
