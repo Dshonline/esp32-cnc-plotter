@@ -1,6 +1,6 @@
+This code is for esp32 s3 varient
 // ================= LIBRARIES =================
 #include <ESP32Servo.h>
-
 // ================= PIN DEFINITIONS =================
 
 // X axis
