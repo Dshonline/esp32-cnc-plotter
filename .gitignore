@@ -1,0 +1,15 @@
+# Arduino / ESP32
+*.bin
+*.elf
+*.hex
+*.o
+
+# Build folders
+/build/
+
+# ESP-IDF
+sdkconfig
+
+# OS junk
+.DS_Store
+Thumbs.db
