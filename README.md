@@ -13,7 +13,7 @@ DIY 2-axis CNC plotter using ESP32 and CD/DVD stepper motors.
 * 
 ## 🔧 Hardware Used
 
-* ESP32
+* ESP32 S3 
 * CD/DVD stepper motors
 * MX1508 motor drivers
 * Power supply
