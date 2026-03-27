@@ -20,10 +20,13 @@ DIY 2-axis CNC plotter using ESP32 and CD/DVD stepper motors.
   
 ## How to Use
 Upload code to ESP32 and send commands via Serial Monitor:
-F100 - moves 100 steps forward  
-B100 - moves 100 steps backward
-R100 - moves 100 steps to right 
-L100 - moves 100 steps to left 
+
+* F100 - moves 100 steps forward  
+* B100 - moves 100 steps backward
+* R100 - moves 100 steps to right 
+* L100 - moves 100 steps to left
+* U    - lifts the pen up
+* D    - lowers the pen down
 
 ## 📈 Future Improvements
 * Add Z-axis
